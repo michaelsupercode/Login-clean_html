@@ -1,19 +1,23 @@
 * {
-    /* border: 0;
-    margin: 0; */
+  
     box-sizing: border-box;
 }
 
 body {
     display: flex;
     justify-content: center;
+    width: 800px;
     background-color: fff;
     background: url(../img/Floppydisk.jpg) no-repeat center/contain;
     background-attachment: fixed;
+    color: white;
 }
 
- /* .bg {
-        width: 100%;
-        height: auto;
-       
-    } */
+form {
+    margin-top: 29.5rem;
+    margin-left: 29rem;
+    justify-content: center;
+    width: 41rem;
+
+}
+
