@@ -1,0 +1,19 @@
+* {
+    /* border: 0;
+    margin: 0; */
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: fff;
+    background: url(../img/Floppydisk.jpg) no-repeat center/contain;
+    background-attachment: fixed;
+}
+
+ /* .bg {
+        width: 100%;
+        height: auto;
+       
+    } */
