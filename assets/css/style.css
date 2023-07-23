@@ -12,8 +12,9 @@ a {
 body {
     display: flex;
     justify-content: center;
-    min-height: 100vh;
-    max-width: 100vw;    background-color: fff;
+    min-height: 80vh;
+    max-width: 80vw;    
+    background-color: black;
     background: url(../img/Floppydisk.jpg) no-repeat center/contain;
     background-attachment: fixed;
     color: white;
@@ -23,16 +24,14 @@ body {
     display: flex;
     width: 25px;
     height: 25px;
-    margin-left: 23rem;
+    margin-left: 43rem;
 }
 
 
 
 #inform {
     margin-top: 29.5rem;
-    margin-left: 19rem;
     justify-content: center;
     width: 61rem;
-
 }
 
